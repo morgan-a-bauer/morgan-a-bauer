@@ -7,12 +7,14 @@
 Hi there! I'm an undergraduate student studying computer science and mathematics at Eckerd College in St. Petersburg, FL.
 - 🔭 I’m currently working on deep learning for music generation
 - 🌱 I’m currently learning quantum computing with Qiskit and IBM Quantum Experience
+
 ---
 
 ## My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morgan-a-bauer&theme=dark&background=000000)](https://git.io/streak-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morgan-a-bauer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## Languages and Tools:
