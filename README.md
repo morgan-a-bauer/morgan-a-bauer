@@ -6,7 +6,7 @@
 </div>
 I'm an undergraduate student studying computer science and mathematics at Eckerd College in St. Petersburg, FL.
 
-- 🔭 I’m currently working on deep learning for music generation
+- 🔭 I’m currently working on deep learning for music generation and post-quantum cryptography
 
 - 🌱 I’m currently learning quantum computing with Qiskit and IBM Quantum Experience
 
