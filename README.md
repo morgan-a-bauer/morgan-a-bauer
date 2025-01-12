@@ -4,11 +4,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
-I'm an undergraduate student studying computer science and mathematics at Eckerd College in St. Petersburg, FL.
+I am an undergraduate student studying computer science and mathematics at Eckerd College in St. Petersburg, FL. I love learning new things and programming solutions to improve my pursuits (e.g. fantasy basketball). I am fascinated by applications of technology in space exploration, healthcare, and sustainability. Due to my love for experiencing the natural world/universe, when I am not programming, reading, or playing board games, I am usually outside (hiking, biking, running, SCUBA diving, or snowboarding)!
 
-- 🔭 I’m currently working on deep learning for music generation and post-quantum cryptography
+- 🔭 I’m currently working on research in deep learning for music generation, post-quantum cryptography, and combinatorics
 
-- 🌱 I’m currently learning quantum computing with Qiskit and IBM Quantum Experience
+- 🌱 I’m currently learning quantum computing with Qiskit and IBM Quantum Experience, ethics, and Linux
 
 ## Languages and Tools:
 <div>
