@@ -10,10 +10,6 @@ I'm an undergraduate student studying computer science and mathematics at Eckerd
 
 - 🌱 I’m currently learning quantum computing with Qiskit and IBM Quantum Experience
 
-## My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=morgan-a-bauer&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-
 ## Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
