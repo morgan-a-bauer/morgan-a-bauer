@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
 </div>
-I am an undergraduate student studying computer science and mathematics at Eckerd College in St. Petersburg, FL. I love learning new things and programming solutions to improve my pursuits (e.g. fantasy basketball). I am fascinated by applications of technology in space exploration, healthcare, and sustainability. Due to my love for experiencing the natural world/universe, when I am not programming, reading, or playing board games, I am usually outside (hiking, biking, running, SCUBA diving, or snowboarding)!
+I am a graduate student studying robotics at the University of Pennsylvania. I love learning new things and programming solutions to improve my pursuits (e.g. fantasy basketball). I am fascinated by applications of technology in space exploration, healthcare, and sustainability. Due to my love for experiencing the natural world/universe, when I am not programming, reading, or playing board games, I am usually outside (hiking, biking, running, SCUBA diving, or snowboarding)!
 
 - 🔭 I’m currently working on research in deep learning for music generation, post-quantum cryptography, and combinatorics
 
